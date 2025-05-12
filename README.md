@@ -1,2 +1,2 @@
 # alx-airbnb-project-documentation
-Pro Dev Backend
+The key features and functionalities of the Airbnb Clone project.
